@@ -6,12 +6,42 @@
   "websites": [
     {
       "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/preview?ts=5cf7728e#slide=id.p1",
-      "duration": 240,
+      "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://docs.google.com/presentation/d/1KRSvtN-yEPrQ1p12ra4f1vyos2S9CBUPhaRd897koWc/edit?ts=5cf77284#slide=id.g587c059b89_0_0",
-      "duration": 180,
+      "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/preview?ts=5cf7728e#slide=id.p2",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/preview?ts=5cf7728e#slide=id.p3",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/preview?ts=5cf7728e#slide=id.p4",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/preview?ts=5cf7728e#slide=id.p5",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/preview?ts=5cf7728e#slide=id.p6",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/preview?ts=5cf7728e#slide=id.p7",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/preview?ts=5cf7728e#slide=id.p8",
+      "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
     {
