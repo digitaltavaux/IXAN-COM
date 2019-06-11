@@ -1,33 +1,25 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
+  "fullscreen": true,
   "autoStart": false,
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://www.patreon.com/kevdev",
+      "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/edit#slide=id.p9",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
+      "url": "https://docs.google.com/presentation/d/1KRSvtN-yEPrQ1p12ra4f1vyos2S9CBUPhaRd897koWc/edit?ts=5cf77284#slide=id.g587c059b89_0_0",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://github.com/KevinSheedy/chrome-tab-rotate.git",
+      "url": "https://one.solvay.com/fr/index.html",
       "duration": 10,
       "tabReloadIntervalSeconds": 300
     },
-    {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://ie.linkedin.com/in/kevinsheedy",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    }
+    
+   
   ]
 }
