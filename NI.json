@@ -6,8 +6,13 @@
   "websites": [
     {
       "url": "https://docs.google.com/presentation/d/1dSOCx7tkmmppeeXESa1f37aBiiHhNpugiA33cp-LXhE/embed?start=TRUE&loop=false&delayms=5000&slide=id.p",
-      //"duration": 30,
-      //"tabReloadIntervalSeconds": 15
-    }
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+     {
+      "url": "https://one.solvay.com/fr/index.html",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 300
+    } 
   ]
 }
