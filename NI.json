@@ -5,9 +5,9 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=5000&slide=id.p",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=6000&slide=id.p",
+      "duration": 120,
+      "tabReloadIntervalSeconds": 300
     },
      {
       "url": "https://one.solvay.com/fr/index.html",
