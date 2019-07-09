@@ -8,12 +8,12 @@
       "url": "https://one.solvay.com/fr/index.html",
       "duration": 20,
       "tabReloadIntervalSeconds": 300
-    } 
+    },
      {
       "url": "https://www.lachainemeteo.com/meteo-france/ville-215510/previsions-meteo-tavaux-aujourdhui",
       "duration": 20,
       "tabReloadIntervalSeconds": 300
-    } 
+    }, 
     {
       "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=8000&slide=id.p",
       "duration": 160,
