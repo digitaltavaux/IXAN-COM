@@ -4,14 +4,24 @@
   "autoStart": false,
   "lazyLoadTabs": false,
   "websites": [
+     {
+      "url": "https://one.solvay.com/fr/index.html",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 300
+    } 
+     {
+      "url": "https://www.lachainemeteo.com/meteo-france/ville-215510/previsions-meteo-tavaux-aujourdhui",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 300
+    } 
     {
-      "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=6000&slide=id.p",
-      "duration": 120,
+      "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=8000&slide=id.p",
+      "duration": 160,
       "tabReloadIntervalSeconds": 300
     },
      {
-      "url": "https://one.solvay.com/fr/index.html",
-      "duration": 10,
+      "url": "http://frtavas06.eua.solvay.com/SASVisualAnalyticsViewer/;04bea1caf2235af0faa983994d3759e7_Cluster12=EF4AE7413CFBBDD2041CF47F4EAE689B.04bea1caf2235af0faa983994d3759e7_SASServer12_1",
+      "duration": 30,
       "tabReloadIntervalSeconds": 300
     } 
   ]
