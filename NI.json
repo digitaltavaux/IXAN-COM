@@ -15,11 +15,16 @@
       "tabReloadIntervalSeconds": 300
     }, 
     {
-      "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=10000&slide=id.p",
-      "duration": 160,
+      "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=30000&slide=id.p",
+      "duration": 180,
       "tabReloadIntervalSeconds": 300
     },
-     {
+    {
+      "url": "https://drive.google.com/drive/folders/0B6CrUJSYoxUZcG04Y1U3YU9DVnc",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
       "url": "http://frtavas06.eua.solvay.com/SASVisualAnalyticsViewer/;04bea1caf2235af0faa983994d3759e7_Cluster12=EF4AE7413CFBBDD2041CF47F4EAE689B.04bea1caf2235af0faa983994d3759e7_SASServer12_1",
       "duration": 30,
       "tabReloadIntervalSeconds": 300
