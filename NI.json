@@ -15,13 +15,13 @@
       "tabReloadIntervalSeconds": 300
     }, 
     {
-      "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=30000&slide=id.p",
+      "url": "https://docs.google.com/presentation/d/1DBhzdIW9VdaOb0a6eDb1aLBrIy4znccF0G72P-Wa8fk/embed?start=TRUE&loop=false&delayms=35000&slide=id.p",
       "duration": 180,
       "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://drive.google.com/drive/folders/0B6CrUJSYoxUZcG04Y1U3YU9DVnc",
-      "duration": 30,
+      "duration": 60,
       "tabReloadIntervalSeconds": 300
     },
     {
@@ -32,6 +32,11 @@
     {
       "url": "https://app.smartsheet.com/sheets/3mWrwG5pMPXpqV88C2V4gJPJJvCqPQvjMjvWM6w1?view=grid",
       "duration": 30,
+      "tabReloadIntervalSeconds": 300
+    } 
+    {
+      "url": "https://gotit.solvay.com/subdomain/tavaux-idea-box/end/ideas",
+      "duration": 60,
       "tabReloadIntervalSeconds": 300
     } 
   ]
