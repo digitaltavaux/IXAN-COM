@@ -20,20 +20,20 @@
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://drive.google.com/drive/folders/0B6CrUJSYoxUZcG04Y1U3YU9DVnc",
-      "duration": 60,
+      "url": "https://v2.luminpdf.com/viewer/5d26fdc85fc31c00136d505d",
+      "duration": 120,
       "tabReloadIntervalSeconds": 300
     },
-    {
-      "url": "http://frtavas06.eua.solvay.com/SASVisualAnalyticsViewer/;04bea1caf2235af0faa983994d3759e7_Cluster12=EF4AE7413CFBBDD2041CF47F4EAE689B.04bea1caf2235af0faa983994d3759e7_SASServer12_1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
-    }, 
-    {
-      "url": "https://app.smartsheet.com/sheets/3mWrwG5pMPXpqV88C2V4gJPJJvCqPQvjMjvWM6w1?view=grid",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 300
-    }, 
+    //{
+    //  "url": "http://frtavas06.eua.solvay.com/SASVisualAnalyticsViewer/;04bea1caf2235af0faa983994d3759e7_Cluster12=EF4AE7413CFBBDD2041CF47F4EAE689B.04bea1caf2235af0faa983994d3759e7_SASServer12_1",
+      //"duration": 30,
+      //"tabReloadIntervalSeconds": 300
+    //}, 
+    //{
+      //"url": "https://app.smartsheet.com/sheets/3mWrwG5pMPXpqV88C2V4gJPJJvCqPQvjMjvWM6w1?view=grid",
+      //"duration": 30,
+      //"tabReloadIntervalSeconds": 300
+    //}, 
     {
       "url": "https://gotit.solvay.com/subdomain/tavaux-idea-box/end/ideas",
       "duration": 60,
