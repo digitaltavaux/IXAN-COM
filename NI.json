@@ -28,6 +28,11 @@
       "url": "https://gotit.solvay.com/subdomain/tavaux-idea-box/end/ideas",
       "duration": 60,
       "tabReloadIntervalSeconds": 300
+    }, 
+    {
+      "url": "https://drive.google.com/file/d/0B6nm6pljeuZ_bm80bkVzR09mLWc/view?usp=sharing",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 300
     } 
   ]
 }
