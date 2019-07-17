@@ -11,7 +11,7 @@
     },
      {
       "url": "https://www.lachainemeteo.com/meteo-france/ville-215510/previsions-meteo-tavaux-aujourdhui",
-      "duration": 30,
+      "duration": 20,
       "tabReloadIntervalSeconds": 300
     }, 
     {
@@ -20,17 +20,12 @@
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://v2.luminpdf.com/viewer/5d26fdc85fc31c00136d505d",
-      "duration": 120,
+      "url": "https://drive.google.com/open?id=1oyASWfXGJnmMIMdpb7JjWUoP9DzBht_N",
+      "duration": 20,
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://gotit.solvay.com/subdomain/tavaux-idea-box/end/ideas",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 300
-    }, 
-    {
-      "url": "https://drive.google.com/file/d/0B6nm6pljeuZ_bm80bkVzR09mLWc/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "url": "https://docs.google.com/presentation/d/1u1eiT8nj0Wv24JJzcCPtE52VtNSmvUOEgUQOjYprrCI/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
       "duration": 60,
       "tabReloadIntervalSeconds": 300
     } 
