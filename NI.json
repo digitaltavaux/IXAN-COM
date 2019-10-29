@@ -23,11 +23,7 @@
       "url": "https://drive.google.com/open?id=17I-vfbhbdltb23b4jqXVvQwpClXGsscO",
       "duration": 20,
       "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://docs.google.com/presentation/d/1u1eiT8nj0Wv24JJzcCPtE52VtNSmvUOEgUQOjYprrCI/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 300
-    } 
+    }
+    
   ]
 }
