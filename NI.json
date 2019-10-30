@@ -15,13 +15,18 @@
       "tabReloadIntervalSeconds": 300
     }, 
     {
-      "url": "https://docs.google.com/presentation/d/1gjTN325Dc_oZw8b9I-xunqZirjLQy7YzyBvbYz4R9Fo/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "url": "https://docs.google.com/presentation/d/1M2u78pw4ZHFY12EEIR6uOhk50JOni-yRASAN_zzXShA/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
       "duration": 320,
       "tabReloadIntervalSeconds": 320
     },
     {
-      "url": "https://drive.google.com/open?id=17I-vfbhbdltb23b4jqXVvQwpClXGsscO",
+      "url": "https://drive.google.com/file/d/1pBXv9Cnub3ZDDCczBNJaJeSF0Ytbr8L-",
       "duration": 20,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://www.linkedin.com/posts/solvay_k2019-watertreatment-polymers-activity-6591291746871713793-12KP",
+      "duration": 40,
       "tabReloadIntervalSeconds": 300
     }
     
