@@ -24,6 +24,12 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 300
     }
+    {
+      "url": "https://docs.google.com/presentation/d/1X0bym0ajoGWAfEjBBmp6dwemcVhVHlzOsaM-HPWzdJI/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "duration": 500,
+      "tabReloadIntervalSeconds": 500
+    }
+    
      
   ]
 }
