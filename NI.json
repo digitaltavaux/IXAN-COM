@@ -25,6 +25,11 @@
       "tabReloadIntervalSeconds": 300
     },
     {
+      "url": "https://solvay.keepeek.com/publicMedia?t=pm2ktLZ5tO",
+      "duration": 140,
+      "tabReloadIntervalSeconds": 140
+    },   
+    {
       "url": "https://docs.google.com/presentation/d/1X0bym0ajoGWAfEjBBmp6dwemcVhVHlzOsaM-HPWzdJI/preview#slide=id.p",
       "duration": 100,
       "tabReloadIntervalSeconds": 100
