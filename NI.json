@@ -20,14 +20,20 @@
       "tabReloadIntervalSeconds": 620
     },
     {
-      "url": "https://drive.google.com/file/d/1apmPJfm4y7OqK4TTqOyxuyxze6GtgzQN",
+      "url": "https://drive.google.com/file/d/1mQ5VdmB6VezpcNBWqSLemW6oVqm9nvzJ",
       "duration": 20,
       "tabReloadIntervalSeconds": 300
-    },   
+    },
+    {
+      "url": "https://drive.google.com/file/d/1_BVvG6-X3mZwMaE2AV3xGW_VArZDqmIF/preview#slide=id.p",
+      "duration": 100,
+      "tabReloadIntervalSeconds": 100
+    },    
     {
       "url": "https://docs.google.com/presentation/d/1X0bym0ajoGWAfEjBBmp6dwemcVhVHlzOsaM-HPWzdJI/preview#slide=id.p",
       "duration": 100,
       "tabReloadIntervalSeconds": 100
-    }    
+    }
+    
   ]
 }
