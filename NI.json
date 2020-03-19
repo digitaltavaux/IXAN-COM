@@ -15,12 +15,12 @@
       "tabReloadIntervalSeconds": 300
     }, 
     {
-      "url": "https://docs.google.com/presentation/d/138V-a2Qii5FopliN-Ui0WOh46Qg6VIY-DsH8rSm7jwk/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "url": "https://docs.google.com/presentation/d/1AzqU1drVWkQ661JoYsR_b-EBL7_b4kofC1pHsh-B4ls/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
       "duration": 340,
       "tabReloadIntervalSeconds": 340
     },
     {
-      "url": "https://drive.google.com/file/d/1VBqg6SYpxj9RtFVIjX4imNgLHsHTBXZD",
+      "url": "https://drive.google.com/file/d/1miCg_YQBiwZVdOFxozXoV4Owsfh6lXwW",
       "duration": 20,
       "tabReloadIntervalSeconds": 300
     },
@@ -43,7 +43,13 @@
       "url": "https://docs.google.com/presentation/d/1kF32XNBblgVobQcgBlxzyu-GkVWzQPjXZorpTWAJRVg/preview#slide=id.p",
       "duration": 100,
       "tabReloadIntervalSeconds": 100
+    },
+    {
+      "url": "http://x3oqy.mjt.lu/nl2/x3oqy/6i8.html?m=AUIAAEEXJwQAAAABcUQAAACMxlIAAAAAH_gAABdpABA64ABec4NWD0JX83vMRZeA0eGx3IphVwALxD4&b=a0faceda&e=95c7fe7a&x=OjQhcp-zEC06nFiAj51bgZ7T6IDQPJTNRWsNIlTFXdI",
+      "duration": 100,
+      "tabReloadIntervalSeconds": 100
     }
+    
     
   ]
 }
