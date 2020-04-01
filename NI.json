@@ -35,11 +35,6 @@
       "tabReloadIntervalSeconds": 100
     },
     {
-      "url": "https://app.luminpdf.com/viewer/5e833d2627d39100111666b4",
-      "duration": 100,
-      "tabReloadIntervalSeconds": 100
-    },
-    {
       "url": "https://docs.google.com/presentation/d/1MNqKDFvVLKPpWQ9QK8q-NmkwzB0qyJV0iI6cs9VCCsM/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
       "duration": 100,
       "tabReloadIntervalSeconds": 100
