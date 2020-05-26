@@ -24,13 +24,9 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 300
     },
+    
     {
-      "url": "https://docs.google.com/presentation/d/1wCs230ZIM747MPl8UY_9L0KGSwXCT0vefTzXkC3mpo0/preview#slide=id.p",
-      "duration": 100,
-      "tabReloadIntervalSeconds": 100
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=zI2-ChcyRaM&feature=emb_logo",
+      "url": "https://www.youtube.com/watch?v=CjXF_DprhDI",
       "duration": 70,
       "tabReloadIntervalSeconds": 70
     },
