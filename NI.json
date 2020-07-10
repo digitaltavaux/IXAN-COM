@@ -24,6 +24,26 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 300
     },
+      {
+      "url": "https://docs.google.com/presentation/d/1r1xLOu_D-csuK69_Hy1EaT3pHYG_QyZYPgsVxq8jNic/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "duration": 180,
+      "tabReloadIntervalSeconds": 180
+    },
+     {
+      "url": "https://docs.google.com/presentation/d/1CVHjmuT5kAs8pd3DYGXZKWnkdiFzBlmVmvcYhB2bABA/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "duration": 80,
+      "tabReloadIntervalSeconds": 80
+    },
+      {
+      "url": "https://docs.google.com/presentation/d/1bhNQBS6qO_mAex4cvwz3Q-Hvaqt-XzTH/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "duration": 80,
+      "tabReloadIntervalSeconds": 80
+    },
+     {
+      "url": "https://docs.google.com/presentation/d/1P6LMZox5uHjUjMnWSxPwCs55kXLGvjb4/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "duration": 80,
+      "tabReloadIntervalSeconds": 80
+    },
     {
       "url": "https://docs.google.com/presentation/d/1Y1nAUvRzlnux5cieeJbPwApU0MgFhGEU5nTQirBPU1o/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
       "duration": 90,
