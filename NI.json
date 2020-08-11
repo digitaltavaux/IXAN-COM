@@ -15,7 +15,7 @@
       "tabReloadIntervalSeconds": 300
     }, 
     {
-      "url": "https://docs.google.com/presentation/d/1BJnKFt04qlxf2ZloPdCLDCKdUPblNRrInwzCWSDOREw/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "url": "https://docs.google.com/presentation/d/1bK-Axp2UakSWvG3dZ-mM4JMJQVxuEED662Anq_3jZlQ/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
       "duration": 340,
       "tabReloadIntervalSeconds": 340
     },
@@ -24,37 +24,16 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 300
     },
-      {
-      "url": "https://docs.google.com/presentation/d/1r1xLOu_D-csuK69_Hy1EaT3pHYG_QyZYPgsVxq8jNic/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 180
-    },
-     {
-      "url": "https://docs.google.com/presentation/d/1CVHjmuT5kAs8pd3DYGXZKWnkdiFzBlmVmvcYhB2bABA/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 80,
-      "tabReloadIntervalSeconds": 80
-    },
-      {
-      "url": "https://docs.google.com/presentation/d/1bhNQBS6qO_mAex4cvwz3Q-Hvaqt-XzTH/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 80,
-      "tabReloadIntervalSeconds": 80
-    },
-     {
-      "url": "https://docs.google.com/presentation/d/1P6LMZox5uHjUjMnWSxPwCs55kXLGvjb4/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 80,
-      "tabReloadIntervalSeconds": 80
-    },
+      
     {
       "url": "https://docs.google.com/presentation/d/1Y1nAUvRzlnux5cieeJbPwApU0MgFhGEU5nTQirBPU1o/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
       "duration": 90,
       "tabReloadIntervalSeconds": 300
     },
-   
     {
-      "url": "https://docs.google.com/presentation/d/1MNqKDFvVLKPpWQ9QK8q-NmkwzB0qyJV0iI6cs9VCCsM/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 100,
-      "tabReloadIntervalSeconds": 100
-    }
-    
+      "url": "https://docs.google.com/presentation/d/1I4NTEQUtQjRMHhQmCuwGeelL6dyV_2rh5C_gUgEih3c/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "duration": 340,
+      "tabReloadIntervalSeconds": 340
+    },
   ]
 }
