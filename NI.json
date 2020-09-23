@@ -15,7 +15,7 @@
       "tabReloadIntervalSeconds": 300
     }, 
     {
-      "url": "https://docs.google.com/presentation/d/1sZ1Fj4ZBgsmSa5q_AyJfXpQBYXqXzAPAJl4t8R_bVk4/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "url": "https://docs.google.com/presentation/d/1kEWNnb94qmUvhiA5ZRk_cij5RwSYhlVho2fnIhaJXGQ/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
       "duration": 340,
       "tabReloadIntervalSeconds": 340
     },
@@ -23,6 +23,11 @@
       "url": "https://drive.google.com/file/d/1ujY26dOTDOeNpcWJ7zZrWYisvjHpYOTl",
       "duration": 20,
       "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/16BzIlorPuWaSdQB6WGxWMb3iAclsfEJLCbS31VUvvNs/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "duration": 340,
+      "tabReloadIntervalSeconds": 340
     },
       
     {
