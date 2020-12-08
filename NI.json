@@ -24,21 +24,5 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 300
     },
-    {
-      "url": "https://docs.google.com/presentation/d/16BzIlorPuWaSdQB6WGxWMb3iAclsfEJLCbS31VUvvNs/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 340,
-      "tabReloadIntervalSeconds": 340
-    },
-      
-    {
-      "url": "https://docs.google.com/presentation/d/1Y1nAUvRzlnux5cieeJbPwApU0MgFhGEU5nTQirBPU1o/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 90,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://docs.google.com/presentation/d/1I4NTEQUtQjRMHhQmCuwGeelL6dyV_2rh5C_gUgEih3c/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
-      "duration": 340,
-      "tabReloadIntervalSeconds": 340
-    }
   ]
 }
