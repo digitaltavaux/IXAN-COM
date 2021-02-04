@@ -22,31 +22,36 @@
     {
       "url": "https://drive.google.com/file/d/1RWahwOrgUKpOIl9jjjknfn6xVe-BOiu6",
       "duration": 20,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 180
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1ChRV3FljGCdssK2kZ9vS8AsJmvK5QVO4TQs5M9nZCHc/embed?start=TRUE&loop=false&delayms=20000&slide=id.p",
+      "duration": 340,
+      "tabReloadIntervalSeconds": 340
     },
     
     {
       "url": "https://frta-sekho1.eua.solvay.com/TavauxE3/applications/tavaux%20pvdc?onglet=hse",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
+      "duration": 20,
+      "tabReloadIntervalSeconds": 30
     },
     
     {
       "url": "https://frta-sekho1.eua.solvay.com/TavauxE3/applications/tavaux%20pvdc?onglet=vdc",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
+      "duration": 20,
+      "tabReloadIntervalSeconds": 30
     },
     
     {
       "url": "https://frta-sekho1.eua.solvay.com/TavauxE3/applications/tavaux%20pvdc?onglet=pvdc",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
+      "duration": 20,
+      "tabReloadIntervalSeconds": 30
     },
     
      {
       "url": "https://frta-sekho1.eua.solvay.com/TavauxE3/applications/tavaux%20pvdc?onglet=qualite",
-      "duration": 180,
-      "tabReloadIntervalSeconds": 300
+      "duration": 20,
+      "tabReloadIntervalSeconds": 30
     }
   ]
 }
