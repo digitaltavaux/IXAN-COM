@@ -52,6 +52,11 @@
       "url": "https://frta-sekho1.eua.solvay.com/TavauxE3/applications/tavaux%20pvdc?onglet=qualite",
       "duration": 20,
       "tabReloadIntervalSeconds": 30
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1QfuTmOgYy-VAuDB8Zs60wDP63MxazKyITC11iluhiMk",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 30
     }
   ]
 }
